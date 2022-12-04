@@ -1,0 +1,132 @@
+{
+    "family": {
+        "aubrey": {
+            "name": "Aubrey",
+            "budget": 510,
+            "gifts": [
+                {
+                    "name": "nebulaLamp",
+                    "price": 49.99
+                },
+                {
+                    "name": "flatIron",
+                    "price": 71.59
+                },
+                {
+                    "name": "lipGloss",
+                    "price": 7.99
+                },
+                {
+                    "name": "avocado",
+                    "price": 47.16
+                },
+                {
+                    "name": "avocadoHat",
+                    "price": 19.16
+                },
+                {
+                    "name": "oodieBlanke",
+                    "price": 84.99
+                },
+                {
+                    "name": "aaronsPutty",
+                    "price": 23.42
+                },
+                {
+                    "name": "smartLED",
+                    "price": 29.99
+                },
+                {
+                    "name": "charger",
+                    "price": 28.96
+                },
+                {
+                    "name": "nikeShorts",
+                    "price": 17.97
+                },
+                {
+                    "name": "nikePhoenix",
+                    "price": 70.4
+                },
+                {
+                    "name": "armourFleece",
+                    "price": 54.27
+                }
+            ],
+            "spent": 505.89,
+            "difference": "4.00"
+        },
+        "braden": {
+            "name": "Braden",
+            "budget": 510,
+            "gifts": [
+                {
+                    "name": "AirPod Pros",
+                    "price": 212.99
+                }
+            ],
+            "spent": 212.99,
+            "difference": "297.00"
+        },
+        "emerson": {
+            "name": "Emerson",
+            "budget": 510,
+            "gifts": [
+                {
+                    "name": "Charm Bracelet Making Kit",
+                    "price": 20.22
+                },
+                {
+                    "name": " 3D Printing Pen",
+                    "price": 43.97
+                },
+                {
+                    "name": "Bath Bombs",
+                    "price": 17.94
+                },
+                {
+                    "name": "ZQDoll",
+                    "price": 25.99
+                },
+                {
+                    "name": "Lite Brite",
+                    "price": 20.34
+                },
+                {
+                    "name": "Art Case",
+                    "price": 23.81
+                },
+                {
+                    "name": "Squishy Bunnycorn",
+                    "price": 39.99
+                },
+                {
+                    "name": "Loopdedoo Deluxe",
+                    "price": 55.16
+                },
+                {
+                    "name": "fujifilmInstaxMini9",
+                    "price": 134.95
+                },
+                {
+                    "name": "magicCrystalBall",
+                    "price": 61.99
+                },
+                {
+                    "name": "waterBottle",
+                    "price": 10.99
+                },
+                {
+                    "name": "schoolWaterBottle",
+                    "price": 10.99
+                },
+                {
+                    "name": "backpack",
+                    "price": 99.99
+                }
+            ],
+            "spent": 510,
+            "difference": "0"
+        }
+    }
+}
